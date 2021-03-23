@@ -1,0 +1,61 @@
+.bene-add {
+    font-size: 50px;
+    text-align: left;
+    position: absolute;
+    right: 14%;
+    bottom: 70%;
+    color: #03AD00;
+}
+
+.contour {
+    width: 100%;
+    height: 50%;
+    overflow: auto;
+}
+
+.list-bene {
+    position: relative;
+    border: thick double #2c3e50;
+    padding: 2%;
+    margin: 1.5%;
+}
+
+.bene-prenom {
+    font-size: 15px;
+    text-align: left;
+    position: absolute;
+    left: 3%;
+    bottom: 25%;
+}
+
+.bene-nom {
+    font-size: 15px;
+    text-align: left;
+    position: absolute;
+    left: 20%;
+    bottom: 25%;
+
+}
+
+.bene-mail {
+    font-size: 15px;
+    text-align: left;
+    position: absolute;
+    left: 38%;
+    bottom: 25%;
+
+}
+
+.bene-icon-trash {
+    font-size: 18px;
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}
+
+.bene-icon-dl {
+    font-size: 18px;
+    position: absolute;
+    bottom: 25%;
+    right: 15%;
+}

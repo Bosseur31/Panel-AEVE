@@ -1,0 +1,95 @@
+.base {
+
+    position: relative;
+    border: thick double #2c3e50;
+    padding: 2%;
+    margin: 2%;
+    background-color: #DD6;
+}
+
+.heure {
+
+    width: 5%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+
+}
+
+.lundi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+
+}
+
+.mardi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+}
+
+.mercredi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+}
+
+.jeudi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+}
+
+
+.vendredi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+}
+
+
+.samedi {
+
+    width: 15%;
+    height: 10%;
+    position: absolute
+    border: thick double #2c3e50;
+    background-color: #2c3e50;
+    display: inline-block;
+}
+
+.center {
+    text-align: center;
+}
+
+.name {
+
+    position: relative;
+    border: thick double #2c3e50;
+    padding: 2%;
+    margin: 2%;
+    background-color: #DD6;
+}
